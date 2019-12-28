@@ -1,0 +1,4 @@
+I'm going to test it by using it.
+To make directories, remove directories, create files,
+rm files, cp files, change directories, etc.
+Please test for yourself the same way.

@@ -1,0 +1,12 @@
+derp/extraderp
+derp
+d
+e
+r
+p
+./printit a b c d e f g
+pizza
+derp
+ls
+cd ..
+cd project6
